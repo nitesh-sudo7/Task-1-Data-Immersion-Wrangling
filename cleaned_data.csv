@@ -1,0 +1,6 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Customer_Email,Date_of_Birth,Gender,Country,Product_Category,Product_Name,Unit_Price,Quantity,Total_Amount,Payment_Method,Order_Status,Customer_Age,Order_Month
+ORD001,2024-01-05,C001,Rahul Sharma,rahul@gmail.com,1998-05-12,Male,India,Electronics,Headphones,1500,1,1500,UPI,Completed,27,2024-01
+ORD002,2024-02-05,C002,Neha Singh,neha@gmail.com,,Female,India,Furniture,Chair,3500,1,3500,Card,Completed,,2024-02
+ORD003,2024-03-10,C001,Rahul Sharma,rahul@gmail.com,1998-05-12,Male,India,Electronics,Headphones,1500,2,3000,UPI,Completed,27,2024-03
+ORD004,2024-03-10,C003,Amit Verma,amit@gmail.com,1995-08-20,Male,India,Electronics,Smartphone,15000,1,15000,UPI,Completed,30,2024-03
+ORD005,2024-04-01,C004,Pooja Mehta,pooja@gmail.com,1999-11-02,Unknown,India,Furniture,Table,7000,1,7000,NetBanking,Completed,26,2024-04
